@@ -10,7 +10,7 @@ Warning: this is still beta, use at your own risk.
 
 ```
 wget https://github.com/stefonarch/LXQt_translations_update/raw/main/lxqt-translations-update.tar.gz
-tar xf lxqt-translations-update
+tar xf lxqt-translations-update.tar.gz
 cd translations
 sudo cp -av usr /
 ```
