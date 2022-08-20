@@ -19,7 +19,7 @@ sudo cp -av usr /
 
 ```
 wget https://github.com/stefonarch/LXQt_translations_update/raw/main/lxqt-translations-update.tar.gz
-tar xf lxqt-translations-update
+tar xf lxqt-translations-update.tar.gz
 cd translations
 mkdir -p ~/.local/share/applications
 cp -v usr/share/applications/* ~/.local/share/applications/
