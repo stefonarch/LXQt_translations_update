@@ -22,8 +22,8 @@ wget https://github.com/stefonarch/LXQt_translations_update/raw/main/lxqt-transl
 tar xf lxqt-translations-update.tar.gz
 cd translations
 mkdir -p ~/.local/share/applications
-cp -v usr/share/applications/* ~/.local/share/applications/
-cp -v usr/share/lxqt ~/.local/share/
+sudo cp -v usr/share/applications/* ~/.local/share/applications/
+sudo cp -v -r usr/share/lxqt ~/.local/share/
 ```
 
 
