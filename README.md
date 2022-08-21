@@ -2,7 +2,7 @@
 
 Archive containing updated translations for all LXQt components, menus and applications, including PCmanFm-qt, LXimage-qt, libfm-qt, Qps, ScreenGrab, QTerminal, pavucontrol-qt and lxqt-archiver.
 
-Warning: this is still beta, use at your own risk.
+**Warning**: this is still beta, use at your own risk.
 
 ## Installation
 
